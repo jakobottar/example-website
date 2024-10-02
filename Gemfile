@@ -3,7 +3,8 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.3.4"
 
 # theme
-gem "minima", "~> 2.5"
+# gem "minima", "~> 2.5"
+gem "jekyll-theme-minimalist"
 
 gem "github-pages", "~> 232", group: :jekyll_plugins
 # If you have any plugins, put them here!
